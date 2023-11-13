@@ -37,6 +37,6 @@
   
 #### 📊 GitHub Stats
 
-![Github Stats]([https://github-readme-stats.vercel.app/api?username=kaireaver&show_icons=true&count_private=true&hide_rank=true&hide=prs,contribs,issues)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kaireaver&show_icons=true&count_private=true&hide_rank=true&hide=prs,contribs,issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaireaver&layout=compact)
