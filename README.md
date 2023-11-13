@@ -7,15 +7,15 @@
 #### 🧐 About Me
 
 - 🚀 I have been active on GitHub since June 2017, consistently contributing to projects and exploring different programming languages.
-- 💻 My skill set includes Java, C, Makefile, CMake, JavaScript, Ruby, and Objective-C, showcasing my ability to work with diverse programming paradigms.
-- 🌱 Currently, I am interested in mobile app development and have experience working with React-Native projects like the "Agenda" repository.
+- 💻 My main skill set includes Java, Spring Boot, Quarkus, Apache Camel, Apache Kafka, AWS, Kubernetes, Terraform, and Jenkins, but I have worked before with C# .NET, React.JS, Obserability, Azure and many more technologies.
+- 🌱 Currently, I am interested in Backend development and DevOps.
   
 #### 💼 Skill Set
   
-- **Languages**: Java, C, Makefile, CMake, JavaScript, Ruby, Objective-C
-- **Frameworks**: Spring Boot, React-Native
-- **Tools and Technologies**: Git, GitHub, AWS, Azure
-- **Databases**: MySQL, PostgreSQL
+- **Languages**: Java, C#, React
+- **Frameworks**: Spring Boot, Quarkus, React, React-Native
+- **Tools and Technologies**: Git, GitHub, AWS, Azure, Apache Kafka, Jenkins, Kubernetes, Terraform, Bash
+- **Databases**: H2, MySQL, MongoDB, Azure CosmosDB, PostgresQL
   
 #### 🌟 Highlighted Projects
 
@@ -25,7 +25,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaireaver&repo=Purchase-Transactions-API" alt="Purchase-Transactions-API">
 </p>
 
-2. [**Agenda**](https://github.com/kaireaver/Agenda): A simple React-Native telephone agenda. This project displays my passion for mobile app development and my ability to leverage existing templates to create functional applications.
+2. [**Agenda**](https://github.com/kaireaver/Agenda): A simple React-Native telephone agenda. This project display my ability to leverage existing templates to create functional applications.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaireaver&repo=Agenda" alt="Agenda">
@@ -33,9 +33,7 @@
   
 #### 💬 Contact Me
 
-- 📧 Email: [arthur@example.com](mailto:arthur@example.com)
 - 💼 LinkedIn: [Arthur Raposo](https://linkedin.com/in/arthurraposo)
-- 🌐 Website: [arthurraposo.dev](https://arthurraposo.dev)
   
 #### 📊 GitHub Stats
 
