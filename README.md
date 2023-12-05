@@ -30,6 +30,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaireaver&repo=Agenda" alt="Agenda">
 </p>
+
+Other projects associated with Accenture and dti digital and affiliated clients have private code-bases. A short description of each project is available on LinkedIn.
   
 #### 💬 Contact Me
 
