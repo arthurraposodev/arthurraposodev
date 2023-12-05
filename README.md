@@ -12,7 +12,7 @@
   
 #### 💼 Skill Set
   
-- **Languages**: Java, C#, JS
+- **Languages**: Java, C#, Javascript
 - **Frameworks**: Spring Boot, Quarkus, React, React-Native
 - **Tools and Technologies**: Git, GitHub, AWS, Azure, Apache Kafka, Jenkins, Kubernetes, Terraform, Bash
 - **Databases**: H2, MySQL, MongoDB, Azure CosmosDB, PostgresQL
