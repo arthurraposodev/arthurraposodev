@@ -19,16 +19,16 @@
   
 #### 🌟 Highlighted Projects
 
-1. [**Purchase-Transactions-API**](https://github.com/kaireaver/Purchase-Transactions-API): A Spring Boot Reactive API written in Java. This project showcases my expertise in backend development using Spring Boot and my familiarity with Java.
+1. [**Purchase-Transactions-API**](https://github.com/arthurraposodev/Purchase-Transactions-API): A Spring Boot Reactive API written in Java. This project showcases my expertise in backend development using Spring Boot and my familiarity with Java.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaireaver&repo=Purchase-Transactions-API" alt="Purchase-Transactions-API">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurraposodev&repo=Purchase-Transactions-API" alt="Purchase-Transactions-API">
 </p>
 
-2. [**Agenda**](https://github.com/kaireaver/Agenda): A simple React-Native telephone agenda. This project display my ability to leverage existing templates to create functional applications.
+2. [**Agenda**](https://github.com/arthurraposodev/Agenda): A simple React-Native telephone agenda. This project display my ability to leverage existing templates to create functional applications.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaireaver&repo=Agenda" alt="Agenda">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurraposodev&repo=Agenda" alt="Agenda">
 </p>
 
 Other projects associated with Accenture and dti digital and affiliated clients have private code-bases. A short description of each project is available on LinkedIn.
@@ -39,6 +39,6 @@ Other projects associated with Accenture and dti digital and affiliated clients 
   
 #### 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kaireaver&show_icons=true&count_private=true&hide_rank=true&hide=prs,contribs,issues)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=arthurraposodev&show_icons=true&count_private=true&hide_rank=true&hide=prs,contribs,issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaireaver&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurraposodev&layout=compact)
