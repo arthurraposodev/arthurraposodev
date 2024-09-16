@@ -15,7 +15,7 @@
 - **Languages**: Java, C#, Javascript
 - **Frameworks**: Spring Boot, Quarkus, React, React-Native, .NET
 - **Tools and Technologies**: Git, GitHub, AWS, Azure, Apache Kafka, Jenkins, Kubernetes, Terraform, Bash
-- **Databases**: H2, MySQL, MongoDB, Azure CosmosDB, PostgresQL
+- **Databases**: PostgresQL, MySQL, MongoDB, Azure CosmosDB, H2
   
 #### 🌟 Highlighted Projects
 
