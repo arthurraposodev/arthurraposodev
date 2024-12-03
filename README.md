@@ -31,7 +31,10 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurraposodev&repo=Agenda" alt="Agenda">
 </p>
 
-Other projects associated with Accenture, dti digital, other consultancies and affiliated clients have private code-bases. A short description of each project is available on LinkedIn.
+3. CRM-API: A backend API for managing CRM functionalities, built using Java and Spring Boot. It demonstrates my expertise in handling complex business logic and integrating user authentication with AWS Cognito.
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurraposodev&repo=crm-api" alt="CRM-API"> </p>
+
+Other projects associated with Bridge, Accenture, dti digital, other consultancies and affiliated clients have private code-bases. A short description of each project is available on LinkedIn.
   
 #### 💬 Contact Me
 
