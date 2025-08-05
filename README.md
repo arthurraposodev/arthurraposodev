@@ -7,13 +7,13 @@
 #### 🧐 About Me
 
 - 🚀 I have been active on GitHub since June 2017, consistently contributing to projects and exploring different programming languages.
-- 💻 My main skill set includes Java, Spring Boot, Quarkus, Apache Camel, Apache Kafka, AWS, Kubernetes, Terraform, and Jenkins, but I have worked before with C# .NET, React.JS, Observability, Azure and many more technologies.
-- 🌱 Currently, I am interested in Backend development and DevOps.
+- 💻 My main skill set includes Java, Python, Typescript, Spring Boot, Quarkus, Apache Camel, Apache Kafka, AWS, Kubernetes, Terraform, and Jenkins, but I have worked before with C# .NET, React.JS, Observability, Azure and many more technologies.
+- 🌱 Currently, I am interested in focused in AI and Backend development and architecture.
   
 #### 💼 Skill Set
   
-- **Languages**: Java, C#, Javascript
-- **Frameworks**: Spring Boot, Quarkus, React, React-Native, .NET
+- **Languages**: Java, Python, Typescript
+- **Frameworks**: Spring Boot, Quarkus, React, React-Native, FastAPI
 - **Tools and Technologies**: Git, GitHub, AWS, Azure, Apache Kafka, Jenkins, Kubernetes, Terraform, Bash
 - **Databases**: PostgresQL, MySQL, MongoDB, Azure CosmosDB, H2
   
